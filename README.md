@@ -8,6 +8,9 @@ Node application for Node Runners
 
 - Nostr-js
 - Lightning-js
+- Node.js
+- NPM
+- Git
 - Lightning Node (LND)
 
 Step 1
