@@ -3,6 +3,7 @@ const { LndNode } = require('lightning');
 
 // Create a Nostr instance
 const nostr = new Nostr();
+const nostr = new relay('wss://damus.com')
 
 // Create a Lightning Network node instance
 const lnd = new LndNode({
