@@ -13,25 +13,30 @@ Node application for Node Runners
 - Git
 - Lightning Node (LND)
 
-Step 1
+**Step 1**
+
 Create a new directory for your project and navigate to it in your terminal. Then, initialize a new Node.js project by running the following command:
 
 ```npm
 npm init -y
 ```
 
-Step 2
+**Step 2**
+
 Install dependencies
 
 Install the required packages, nostr-js and lightning, by running the following command:
 
 ```npm
 npm install nostr-js lightning
+```
 
-Step 3
+**Step 3**
+
 Make sure to replace the placeholders (localhost:10009, /path/to/tls.cert, and /path/to/admin.macaroon) in the lnd configuration with the appropriate values for your Lightning Network node.
 
-Step 4
+**Step 4**
+
 Start the application
 
 Save the changes to app.js, and in your terminal, run the following command to start the application:
