@@ -33,7 +33,7 @@ npm install nostr-js lightning
 
 **Step 3**
 
-Make sure to replace the placeholders (localhost:10009, /path/to/tls.cert, and /path/to/admin.macaroon) in the lnd configuration with the appropriate values for your Lightning Network node.
+Make sure to replace the placeholders **(localhost:10009, /path/to/tls.cert, and /path/to/admin.macaroon)** in the **lnd** configuration with the appropriate values for your Lightning Network node.
 
 **Step 4**
 
