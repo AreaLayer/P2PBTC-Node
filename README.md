@@ -45,3 +45,8 @@ Save the changes to app.js, and in your terminal, run the following command to s
 node app.js
 ```
 Now, your Node application is up and running, and it will listen for incoming messages via Nostr. You can customize the processMessage function to handle the received messages and interact with the Lightning Network using the lnd instance.
+
+## Roadmap
+
+- [] FOSS
+- [] Alpha Software
