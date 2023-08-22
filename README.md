@@ -49,4 +49,4 @@ Now, your Node application is up and running, and it will listen for incoming me
 ## Roadmap
 
 - [ ] FOSS
--  [] Alpha Software
+- [ ] Alpha Software
