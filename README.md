@@ -2,6 +2,8 @@
 
 Node application for Node Runners
 
+⚠️**Beta software**
+
 ## How run?
 
 **Pre Requisite**
