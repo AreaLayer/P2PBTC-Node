@@ -51,4 +51,7 @@ Now, your Node application is up and running, and it will listen for incoming me
 ## Roadmap
 
 - [ ] FOSS
+- [ ] LDK
+- [ ] CLN
+- [ ] Eclair
 - [x] Alpha Software
