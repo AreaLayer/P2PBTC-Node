@@ -2,7 +2,7 @@
 
 Node application for Node Runners
 
-⚠️**Beta software**
+⚠️**Beta software and WIP**
 
 ## How run?
 
