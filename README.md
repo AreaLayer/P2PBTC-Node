@@ -6,7 +6,7 @@ Node application for Node Runners
 
 ## How run
 
--[Run]
+- [Run](https://github.com/AreaLayer/P2PBTC-Node/blob/main/doc/run.md)
 
 
 ## Roadmap
