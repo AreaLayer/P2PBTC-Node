@@ -11,7 +11,7 @@ Node application for Node Runners
 
 ## Roadmap
 
-- [ ] FOSS
+- [x] FOSS
 - [ ] LDK
 - [ ] CLN
 - [ ] Eclair
