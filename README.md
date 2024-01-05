@@ -12,7 +12,7 @@ Node application for Node Runners
 ## Roadmap
 
 - [x] FOSS
-- [ ] LDK
-- [ ] CLN
-- [ ] Eclair
+- [x] LDK (WIP)
+- [x] CLN (WIP)
+- [x] Eclair (WIP)
 - [x] Alpha Software
