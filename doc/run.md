@@ -8,6 +8,9 @@
 - NPM
 - Git
 - Lightning Node (LND)
+- Eclair (soon)
+- CLN (soon)
+- LDK (soon)
 
 **Step 1**
 
